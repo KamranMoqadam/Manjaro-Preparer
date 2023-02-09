@@ -104,7 +104,7 @@ sudo pacman -Sq micro notepadqq kate deepin-editor
 
 ## Version control
 yay -S git
-yay -S gitflow
+yay -S gitflow-avh  
 
 # Databases --------------------------------------------------------------------------------
 
